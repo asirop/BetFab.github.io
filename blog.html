@@ -11,6 +11,8 @@ header-img: "img/post-bg-06.jpg"
 
     {% for post in site.posts %}
         {% assign currentdate = post.date | date: "%Y" %}
+        {% if currentdate != "0000" %}
+        
         {% if currentdate != date %}
             <h2 class="post-title">{{ currentdate }}</h2>
                 {% assign date = currentdate %}
@@ -20,5 +22,6 @@ header-img: "img/post-bg-06.jpg"
                     {{ post.date | date: '%B %d' }} -  {{ post.title }}
                 </h3>
             </a>
+        {% endif %}
     {% endfor %}
 </div>
