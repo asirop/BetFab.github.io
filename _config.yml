@@ -1,0 +1,17 @@
+# Site settings
+title: Betty Fabre
+header-img: img/home-bg.jpg
+email: fabre.betty@gmail.com
+description: "Computer Science Student"
+baseurl: ""
+url: "http://yourdomain.com"
+twitter_username: FabreBetty
+github_username:  BetFab
+facebook_username:  
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
