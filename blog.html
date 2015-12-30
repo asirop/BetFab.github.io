@@ -16,11 +16,11 @@ header-img: "img/post-bg-06.jpg"
             <h2 class="post-title">{{ currentdate }}</h2>
                 {% assign date = currentdate %}
         {% endif %}
-            
+            <a href="{{ post.url | prepend: site.baseurl }}">
                 <h3 class="post-subtitle">
-                    {{ post.date | date: '%B %d' }} - <a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}  </a>
+                    {{ post.date | date: '%B %d' }} -  {{ post.title }}  
                 </h3>
-           
+           </a>
         
     {% endfor %}
 </div>
