@@ -1,14 +1,21 @@
 # BetFab.github.io
 My personnal website + Blog 
 
-#NOT FINISHED#
 
 Here are the things I use to build that website:
 
-CLEAN BLOG Template using Twitter Bootstrap and Jekyll
+GITHUB pages: https://pages.github.com/
 
-GITHUB pages 
+CLEAN BLOG Template from Start Bootstrap : https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll
 
-FORMSPREE for the contact form 
+FORMSPREE for the contact form on static page: http://formspree.io/
 
 IMAGES are from unsplash.com
+
+To customize I use :
+
+Twitter: Bootstrap: http://getbootstrap.com/
+
+Jekyll: https://jekyllrb.com/
+
+Liquid language : https://docs.shopify.com/themes/liquid-documentation/basics
