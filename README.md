@@ -19,3 +19,10 @@ Twitter: Bootstrap: http://getbootstrap.com/
 Jekyll: https://jekyllrb.com/
 
 Liquid language : https://docs.shopify.com/themes/liquid-documentation/basics
+
+
+
+
+Improvments ideas :
+- A projects page
+- A Resume
