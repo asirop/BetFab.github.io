@@ -4,7 +4,7 @@ title:      "Git & Github & Open Source"
 subtitle:   "a talk by William Durand"
 date:       2015-12-27 12:00:00
 author:     "Betty Fabre"
-header-img: "img/post-bg-01.jpg"
+header-img: "img/post.jpg"
 ---
 
 <p>The Lava JUG of Clermont Ferrand hold an event dedicated to Git and Open Source Software on November, 26th. </p>
