@@ -1,3 +1,12 @@
+---
+layout:     post
+title:      "Sopra Steria Tennis Open"
+subtitle:   "a trip in Lyon"
+date:       2016-06-10 12:00:00
+author:     "Betty Fabre"
+header-img: "img/post.jpg"
+---
+
 #uncorrected
 #version1
 
